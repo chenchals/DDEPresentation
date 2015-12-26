@@ -4,7 +4,6 @@ author: Chenchals
 date: December 12/26/15 2015
 transition: rotate
 <hr>
-
 <small>
 Coursera Course: Data Science Specialization<br>
 09-Developing Data Products
@@ -16,9 +15,9 @@ First Slide
 For more details on authoring R presentations click the
 **Help** button on the toolbar.
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Bullet 11
+- Bullet 12
+- Bullet 13
 
 Slide With Code
 ========================================================
