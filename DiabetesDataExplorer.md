@@ -9,33 +9,24 @@ Coursera Course: Data Science Specialization<br>
 09-Developing Data Products
 </small>
 
-First Slide
+Diabetes Research
 ========================================================
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+Diabetes is a disease where patients have chronically high levels of _glucose_ in the blood.  This is primarily caused by the inability of __pancreas__ to produce _insulin_, a hormone that regulates the level of sugar in the blood.<p>
 
-- Bullet 11
-- Bullet 12
-- Bullet 13
+The __Diabetes Data Explorer__ helps to explore the dependency of various _predictors_ that fortell if a person is having diabetes.  It uses data from the [UCI Machine Learning](https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names) repository on the prevelance of diabetes in Pima Indians.
 
-Slide With Code
+
+Diabetes Data Explorer - Navbar
 ========================================================
 
-
-```r
-summary(cars)
-```
-
-```
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-```
+![plot of chunk unnamed-chunk-1](DiabetesDataExplorer-figure/unnamed-chunk-1-1.png) 
+***
+- __Predictors:__ Factors that affect the disease outcome. Choose two or more of these predictors ot explore the data.
+- __Select All Predictors:__ A one shot selection or de-selection of all _Predictors_
+- __Use Data:__ 
+  - __clean__ Removes rows, where the values of rthe _predictors_ are not sensible.  Example a _BMI_ of 0
+  - __raw__ Use all rows, even if the value for a _predictor_ is not sensible
 
 Slide With Plot
 ========================================================
