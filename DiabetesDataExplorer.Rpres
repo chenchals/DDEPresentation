@@ -4,6 +4,7 @@ author: Chenchals
 date: `r format(Sys.Date(), format="%B %D %Y")`
 transition: rotate
 <hr>
+
 <small>
 Coursera Course: Data Science Specialization<br>
 09-Developing Data Products

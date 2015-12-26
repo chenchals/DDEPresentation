@@ -4,6 +4,7 @@ author: Chenchals
 date: December 12/26/15 2015
 transition: rotate
 <hr>
+
 <small>
 Coursera Course: Data Science Specialization<br>
 09-Developing Data Products
